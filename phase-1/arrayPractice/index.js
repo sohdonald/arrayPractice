@@ -42,4 +42,6 @@ function removeFirstCat() {
 // what is the difference betweedn destructive and non-destructive?
 
 
+// 
+
 }
