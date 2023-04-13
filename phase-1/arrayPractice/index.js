@@ -47,7 +47,7 @@ function removeLastCat() {
 function removeFirstCat() {
     return cats.slice(1);
 
-// what is the difference betweedn destructive and non-destructive?
+// what is the difference between destructive and non-destructive?
 
 // destructive changes the original data
 
